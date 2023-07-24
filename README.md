@@ -1,4 +1,4 @@
-# qu-bootcamp-deutsch-jozsa_algorithm
+# qu-bootcamp-deutsch-jozsa algorithm
 
 ## Introduction
 
