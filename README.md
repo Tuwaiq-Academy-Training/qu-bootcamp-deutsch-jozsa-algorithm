@@ -28,5 +28,5 @@ The code will include the quantum circuit to perform the Deutsch-Jozsa algorithm
 
 # References
 
-> [Qiskit documentation](https://qiskit.org/documentation/)   
+> [Qiskit documentation Quantum query algorithms ](https://learn.qiskit.org/course/algorithms/query-algorithms)   
 > [introduction to classical and quantum computing-book](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
