@@ -13,7 +13,8 @@ In the Deutsch-Jozsa algorithm, we use an oracle that implements the function f 
 1. If f(x) is constant (returns the same value for all inputs x), the oracle applies an identity transformation to the output qubit.
 
 2. If f(x) is balanced (returns different values for exactly half of the inputs x), the oracle applies a NOT gate (X gate) to the output qubit.
-
+       
+![deutsch-jozsa algorithm Oracle](https://upload.wikimedia.org/wikipedia/commons/b/b5/Deutsch-Jozsa-algorithm-quantum-circuit.png)
 ## Task
 
 Using Qiskit, we will implement the Deutsch-Jozsa algorithm, where the user chooses the number of qubits and whether the oracle represents a constant or balanced function randomly.
@@ -21,3 +22,11 @@ Using Qiskit, we will implement the Deutsch-Jozsa algorithm, where the user choo
 ## Output
 
 The code will include the quantum circuit to perform the Deutsch-Jozsa algorithm on the randomly generated oracle, and it will display the result indicating whether the function is constant or balanced. Additionally, the code will include comments explaining each step of the algorithm and how the oracle is represented in the quantum circuit.
+
+
+
+
+# References
+
+> [Qiskit documentation](https://qiskit.org/documentation/)   
+> [introduction to classical and quantum computing-book](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
