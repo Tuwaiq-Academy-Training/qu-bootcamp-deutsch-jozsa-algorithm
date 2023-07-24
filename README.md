@@ -20,7 +20,7 @@ The goal of the Deutsch-Jozsa algorithm is to efficiently determine whether the 
 ## Task
 
 
-1.The user chooses the number of qubits for the input and output registers.
+1.The user chooses the number of qubits for the input qu-bits.
 
 2.The algorithm randomly selects whether the oracle represents a constant or balanced function. Specifically:
 
